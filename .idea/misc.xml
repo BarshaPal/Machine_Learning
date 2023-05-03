@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/ToDoList-master (6)/ToDoList-master/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/android/ToDoList-master (6)/ToDoList-master/app/src/main/res/layout/add_symptoms.xml" value="0.11302083333333333" />
+        <entry key="..\:/android/ToDoList-master (6)/ToDoList-master/app/src/main/res/layout/add_todo.xml" value="0.152" />
+        <entry key="..\:/android/ToDoList-master (6)/ToDoList-master/app/src/main/res/layout/items.xml" value="0.11676798378926039" />
+        <entry key="..\:/android/ToDoList-master (6)/ToDoList-master/app/src/main/res/layout/list.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
